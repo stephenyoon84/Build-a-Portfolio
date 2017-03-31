@@ -5,6 +5,13 @@
 * Must replicate that design in HTML and CSS.
 * Develop a responsive website that will display images, descriptions and links to each of the portfolio projects
 
+### Timeline
+* Start the project and create github (3/31/2017)
+
+
+
+
+
 ### Style Guidelines
 #### CSS Guidelines
 * CSS - Use consistent indentation (tabs or spaces). (See: CSS General Formatting Rules-Indentation)
