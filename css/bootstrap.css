@@ -1593,12 +1593,7 @@ pre code {
   padding-left: 15px;
   padding-right: 15px;
 }
-@media (min-width: 768px) {
-  .container {
-    width: 750px;
-  }
-}
-@media (min-width: 992px) {
+@media (min-width: 991px) {
   .container {
     width: 970px;
   }
