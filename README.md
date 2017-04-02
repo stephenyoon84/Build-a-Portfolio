@@ -7,9 +7,11 @@
 
 ### Timeline
 * Start the project and create github (3/31/2017)
+* Replicate the design mockup (4/1/2017)
 
-
-
+### TODO
+* Update links
+* Create my own version portfolio
 
 
 ### Style Guidelines
