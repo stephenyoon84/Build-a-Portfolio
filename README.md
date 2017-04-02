@@ -8,9 +8,11 @@
 ### Timeline
 * Start the project and create github (3/31/2017)
 * Replicate the design mockup (4/1/2017)
+* Add links (4/2/2017)
 
 ### TODO
-* Update links
+* Update links (done)
+* Modify for responsive web (Common Responsive Pattern)
 * Create my own version portfolio
 
 
