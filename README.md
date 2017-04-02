@@ -8,7 +8,7 @@
 ### Timeline
 * Start the project and create github (3/31/2017)
 * Replicate the design mockup (4/1/2017)
-* Add links (4/2/2017)
+* Add links and make some responsive change for font-size (4/2/2017)
 
 ### TODO
 * Update links (done)
