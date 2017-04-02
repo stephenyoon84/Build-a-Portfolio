@@ -12,7 +12,7 @@
 
 ### TODO
 * Update links (done)
-* Modify for responsive web (Common Responsive Pattern)
+* Modify Featured Work section for responsive web (Common Responsive Pattern)
 * Create my own version portfolio
 
 
