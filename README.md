@@ -12,6 +12,8 @@
 * Add my own portfolio template (4/2/2017)
 * Add PJT folder which done while taking the courses (4/3/2017)
 * Update Stephen-portfolio.html with PJT (4/3/2017)
+* Change image for Stephen-portfolio.html (4/3/2017)
+
 
 ### TODO
 * Update links (done)
