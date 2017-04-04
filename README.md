@@ -28,7 +28,7 @@
     - https://css-tricks.com/bem-101/
   - tip for header
     - https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android?hl=en
-    - `<link rel="shortcut icon" type="image/png" href="img/favicon.png">`
+    - `<link rel="shortcut icon" type="image/png" href="img/favicon.png">`<br>
 `<!-- .svg, .png or .ico images are recommended because they support transparency, useful for displaying logo / round icons -->`
 
 
