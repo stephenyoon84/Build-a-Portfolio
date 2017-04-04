@@ -5,6 +5,10 @@
 * Must replicate that design in HTML and CSS.
 * Develop a responsive website that will display images, descriptions and links to each of the portfolio projects
 
+### Files
+* index.html - tried to make similar with design mockup
+* Stephen-portfolio.html - put the actual projects which done by myself
+
 ### Timeline
 * Start the project and create github (3/31/2017)
 * Replicate the design mockup (4/1/2017)
@@ -13,12 +17,13 @@
 * Add PJT folder which done while taking the courses (4/3/2017)
 * Update Stephen-portfolio.html with PJT (4/3/2017)
 * Change image for Stephen-portfolio.html (4/3/2017)
-
+* Add responsive framework in to style.css (4/3/2017)
+* First submission (4/3/2017)
 
 ### TODO
 * Update links (done)
-* Modify Featured Work section for responsive web (Common Responsive Pattern)
-* Create my own version portfolio
+* Modify Featured Work section for responsive web (Common Responsive Pattern) (done)
+* Create my own version portfolio (done)
 
 
 ### Style Guidelines
