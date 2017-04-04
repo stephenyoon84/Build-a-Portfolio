@@ -8,52 +8,64 @@
     <link href="https://fonts.googleapis.com/css?family=Lato:100,300" rel="stylesheet">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
-    <script type="text/javascript" src="js/jquery-3.2.0.js"></script>
-    <script type="text/javascript" src="js/bootstrap.min.js"></script>
+    <script src="js/jquery-3.2.0.js"></script>
+    <script src="js/bootstrap.min.js"></script>
   </head>
+
   <body>
+
     <div class="container">
-      <div class="row title-main">
-        <div class="col-xs-6">
+      <header class="row title-main">
+        <!-- logo -->
+        <section class="col-xs-6">
           <img class="title-logo" src="images/logo-s.jpg" alt="Udacity logo">
-        </div>
-        <div class="col-xs-6 text-right text-uppercase">
+        </section>
+        <!-- name and roll -->
+        <section class="col-xs-12 col-sm-6 text-right text-uppercase">
           <h2 class="title-super text-thin">Stephen YOON</h2>
           <h4>Full Stack Web Developer</h4>
-        </div>
-      </div>
+        </section>
+      </header>
+
       <div class="row">
         <div class="col-xs-12">
           <hr>
         </div>
       </div>
-      <div class="row">
-        <div class="col-xs-12">
+      <!-- main image -->
+      <section class="row">
+        <section class="col-xs-12">
           <img class="img-responsive" src="images/main-s2.jpg" alt="This is the main image">
-        </div>
-      </div>
+        </section>
+      </section>
+
       <div class="row">
         <div class="col-xs-12">
           <h2>Featured Work</h2>
         </div>
       </div>
-      <div class="row text-center">
-        <div class="col-xs-4">
+
+      <main class="row text-center">
+        <!-- First Project -->
+        <article class="col-xs-4">
           <img class="img-responsive img-sample" src="images/PJT-1.jpg" data-toggle="modal" data-target="#project1" alt="This is a image for pjt 1">
           <h3 class="text-uppercase">Toplist</h3>
-          <a href="https://github.com/stephenyoon84/Build-a-Portfolio/tree/master/pjt/pjt1">Project 1</a>
-        </div>
-        <div class="col-xs-4">
-          <img class="img-responsive img-sample"src="images/PJT-2.jpg" data-toggle="modal" data-target="#project2" alt="This is a image for pjt 2">
+          <a href="https://github.com/stephenyoon84/Build-a-Portfolio/tree/master/pjt/pjt1" target="_blank">Project 1</a>
+        </article>
+        <!-- Second Project -->
+        <article class="col-xs-4">
+          <img class="img-responsive img-sample" src="images/PJT-2.jpg" data-toggle="modal" data-target="#project2" alt="This is a image for pjt 2">
           <h3 class="text-uppercase">Framework</h3>
-          <a href="https://github.com/stephenyoon84/Build-a-Portfolio/tree/master/pjt/pjt2">Project 2</a>
-        </div>
-        <div class="col-xs-4">
+          <a href="https://github.com/stephenyoon84/Build-a-Portfolio/tree/master/pjt/pjt2" target="_blank">Project 2</a>
+        </article>
+        <!-- Third Project -->
+        <article class="col-xs-4">
           <img class="img-responsive img-sample" src="images/PJT-3.jpg" data-toggle="modal" data-target="#project3" alt="This is a image for pjt 3">
           <h3 class="text-uppercase">Bootstrap</h3>
-          <a href="https://github.com/stephenyoon84/Build-a-Portfolio/tree/master/pjt/pjt3">Project 3</a>
-        </div>
-      </div>
+          <a href="https://github.com/stephenyoon84/Build-a-Portfolio/tree/master/pjt/pjt3" target="_blank">Project 3</a>
+        </article>
+      </main>
+
     </div>
     <!-- Modal -->
     <div class="modal fade" id="project1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
@@ -63,9 +75,9 @@
                     <h4 class="modal-title" id="myModalLabel">Favorite App Page</h4>
                 </div>
                 <div class="modal-body">
-                    <img class="img-responsive" src="images/PJT-1-d.jpg">
-                    This was my first project in this class. How to create a web page. Web structures are consist with boxes.
-                    <a href="https://github.com/stephenyoon84/Build-a-Portfolio/tree/master/pjt/pjt1"><br>Here is the github link</a>
+                    <img class="img-responsive" src="images/PJT-1-d.jpg" alt="This is a image for pjt 1">
+                    <p>This was my first project in this class. How to create a web page. Web structures are consist with boxes.</p>
+                    <a href="https://github.com/stephenyoon84/Build-a-Portfolio/tree/master/pjt/pjt1" target="_blank"><br>Here is the github link</a>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -80,9 +92,9 @@
                     <h4 class="modal-title" id="myModalLabel">Favorite App Page</h4>
                 </div>
                 <div class="modal-body">
-                    <img class="img-responsive" src="images/PJT-2-d.jpg">
-                    This was my second project in this class. I learned a lot about CSS framework and responsive layouts.
-                    <a href="https://github.com/stephenyoon84/Build-a-Portfolio/tree/master/pjt/pjt2"><br>Here is the github link</a>
+                    <img class="img-responsive" src="images/PJT-2-d.jpg" alt="This is a image for pjt 2">
+                    <p>This was my second project in this class. I learned a lot about CSS framework and responsive layouts.</p>
+                    <a href="https://github.com/stephenyoon84/Build-a-Portfolio/tree/master/pjt/pjt2" target="_blank"><br>Here is the github link</a>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -97,9 +109,9 @@
                     <h4 class="modal-title" id="myModalLabel">Favorite App Page</h4>
                 </div>
                 <div class="modal-body">
-                    <img class="img-responsive" src="images/PJT-3-d.jpg">
-                    This was my third project in this class. This course is about the bootstrap which can help to create the web page more easily.
-                    <a href="https://github.com/stephenyoon84/Build-a-Portfolio/tree/master/pjt/pjt3"><br>Here is the github link</a>
+                    <img class="img-responsive" src="images/PJT-3-d.jpg" alt="This is a image for pjt 3">
+                    <p>This was my third project in this class. This course is about the bootstrap which can help to create the web page more easily.</p>
+                    <a href="https://github.com/stephenyoon84/Build-a-Portfolio/tree/master/pjt/pjt3" target="_blank"><br>Here is the github link</a>
                 </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>

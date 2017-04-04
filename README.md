@@ -19,6 +19,7 @@
 * Change image for Stephen-portfolio.html (4/3/2017)
 * Add responsive framework in to style.css (4/3/2017)
 * First submission (4/3/2017)
+* Second submission (4/3/2017)
 
 ### TODO
 * Update links (done)
