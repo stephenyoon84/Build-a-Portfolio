@@ -21,7 +21,17 @@
 * First submission (4/3/2017)
 * Second submission (4/3/2017)
 * Third submission (4/3/2017)
-* Forth submission (4/4/2017)
+* Forth submission (4/4/2017) - Finally met the specifications (4/4/2017)
+  - Additional advises
+  - BEM
+    - http://getbem.com/introduction/
+    - https://css-tricks.com/bem-101/
+  - tip for header
+    - https://developers.google.com/web/updates/2014/11/Support-for-theme-color-in-Chrome-39-for-Android?hl=en
+    - <link rel="shortcut icon" type="image/png" href="img/favicon.png">
+<!-- .svg, .png or .ico images are recommended because they support transparency, useful for displaying logo / round icons -->
+
+
 
 ### TODO
 * Update links (done)
